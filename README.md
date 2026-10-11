@@ -11,7 +11,6 @@ I'm passionate about building technology at the intersection of **artificial int
 - 🔐 Military & Space Cybersecurity Engineer Intern at Johns Hopkins Applied Physics Laboratory
 - 🤖 AI/ML Fellow with Break Through Tech
 - 🎓 Banneker/Key Full-Ride Scholar at the University of Maryland
-- 🌱 Exploring machine learning, LLMs, systems engineering, and secure software development
 
 ---
 
@@ -22,15 +21,13 @@ I'm passionate about building technology at the intersection of **artificial int
 - Systems Engineering
 - Full-Stack Development
 - Automation & Testing
-- Cloud Computing
-- Human-Centered Design
 
 ---
 
 ## 🛠️ Technologies
 
 ### 💫 Programming Languages
-Python, Java, Bash, PowerShell, JavaScript, Swift, MATLAB, HTML/CSS 
+Python, Java, Bash, C, PowerShell, JavaScript, Swift, MATLAB, HTML/CSS, Assembly 
 
 ### 💫 Tools & Development Environments
 Git, GitHub, GitLab, Cameo Systems Modeler, Robot Framework, VS Code, Eclipse, PyCharm, Xcode, Microsoft 365
@@ -67,7 +64,6 @@ My Art Website: https://aisiriprasad.wixsite.com/aisirisart
 - Director of Public Relations & Outreach, Indian Student Association
 - Bitcamp Design Organizer
 - Alpha Omega Epsilon
-- Maryland Mauj
 - App Dev Club Machine Learning Bootcamp
 
 ---
@@ -84,4 +80,3 @@ My Art Website: https://aisiriprasad.wixsite.com/aisirisart
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/aisiriprasad/
-- 🎨 Art Website: https://aisiriprasad.wixsite.com/aisirisart
